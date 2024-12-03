@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+*.env
+
+# Logs
+*.log
+*.out
+*.err
+
+# OS-specific files
+.DS_Store          # macOS Finder metadata
+Thumbs.db          # Windows thumbnail cache
+
+.vscode/
+.ipynb_checkpoints
