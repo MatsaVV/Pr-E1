@@ -13,8 +13,8 @@ __pycache__/
 *.err
 
 # OS-specific files
-.DS_Store          # macOS Finder metadata
-Thumbs.db          # Windows thumbnail cache
+.DS_Store
+Thumbs.db
 
 .vscode/
 .ipynb_checkpoints
